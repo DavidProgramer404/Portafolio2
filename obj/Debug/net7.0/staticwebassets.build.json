@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "jzG8FUdUP7Wf03SKDZKtsOr6NutErHtmyVSQdu1FZZU=",
+  "Source": "Portafolio2",
+  "BasePath": "_content/Portafolio2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Portafolio2\\wwwroot",
+      "Source": "Portafolio2",
+      "ContentRoot": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\Portafolio2\\wwwroot\\",
+      "BasePath": "_content/Portafolio2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\Portafolio2\\wwwroot\\css\\contactStyle.css",
+      "SourceId": "Portafolio2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\Portafolio2\\wwwroot\\",
+      "BasePath": "_content/Portafolio2",
+      "RelativePath": "css/contactStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\contactStyle.css"
+    },
+    {
+      "Identity": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\Portafolio2\\wwwroot\\css\\projectStyle.css",
+      "SourceId": "Portafolio2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\Portafolio2\\wwwroot\\",
+      "BasePath": "_content/Portafolio2",
+      "RelativePath": "css/projectStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\projectStyle.css"
+    },
+    {
+      "Identity": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\Portafolio2\\wwwroot\\css\\style.css",
+      "SourceId": "Portafolio2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\Portafolio2\\wwwroot\\",
+      "BasePath": "_content/Portafolio2",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\Portafolio2\\wwwroot\\img\\kamehouse.jpg",
+      "SourceId": "Portafolio2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\david\\OneDrive\\Escritorio\\csharp console\\Portafolio2\\wwwroot\\",
+      "BasePath": "_content/Portafolio2",
+      "RelativePath": "img/kamehouse.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\kamehouse.jpg"
+    }
+  ]
+}

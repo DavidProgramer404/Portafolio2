@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'ADLaM Display';
+}
+p{
+    font-family: 'ADLaM Display';
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3em;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+.container nav a {
+    font-family: 'ADLaM Display';
+    width: 10em;
+    border-right: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    letter-spacing: normal;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+.container nav :last-child {
+    border-right: 0px;
+}
+
+header {
+    margin-top: 3em;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: 900;
+    text-align: center;
+}
+
+main {
+    margin-top: 5em;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.projectContainer {
+    height: 30em;
+    overflow: hidden;
+    overflow-y: scroll;
+    border: 2px solid black;
+}
+
+.block {
+    display: flex;
+    justify-content: center;
+}
+
+.block img {
+    width: 12em;
+    height: 12em;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+.blockName {
+    display: flex;
+    flex-direction: column;
+    width: 30em;
+    font-weight: 900;
+}
+
+.blockName :first-child {
+    font-family: 'ADLaM Display';
+    font-size: 2em;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.blockName :nth-child(2) {
+    margin-top: 1em;
+    font-size: 2em;
+}
+
+.blockName :last-child {
+    margin-top: 1em;
+    font-size: 1em;
+    font-weight: 100;
+}

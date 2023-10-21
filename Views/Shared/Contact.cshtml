@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Contact Me</title>
+    <link rel="stylesheet" type="text/css" href="~/css/contactStyle.css">
+    <link href='https://fonts.googleapis.com/css?family=ADLaM Display' rel='stylesheet'>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="/">Home</a>
+            <a href="/projects">Projects</a>
+            <a href="/contact">Contact</a>
+        </nav>
+        <header>
+            <h1>Contact Me!</h1>
+        </header>
+        <main>
+            <form action="#">
+                <div class="row">
+                    <div class="col-25">
+                        <label for="name">Name</label>
+                    </div>
+                    <div class="col-75">
+                        <input type="text" id="name" name="name">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-25">
+                        <label for="email">Email</label>
+                    </div>
+                    <div class="col-75">
+                        <input type="email" id="email" name="email">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-25">
+                        <label for="subject">Message</label>
+                    </div>
+                    <div class="col-75">
+                        <textarea id="subject" name="Messenge" style="height: 200px;"></textarea>
+                    </div>
+                </div>
+                <br>
+                <div class="submit">
+                    <input type="submit" value="Submit">
+                </div>
+            </form>
+        </main>
+    </div>
+</body>
+</html>
